@@ -400,4 +400,4 @@ if (message.content.startsWith(prefix + 'setplay')) {
 });
 
 
-client.login(process.env.BOT_TOKEN2); 
+client.login("NTEyMzI1MDA5NzU5NDA0MDgz.Ds3zgQ.jzoqnvZTl6y_d6grcDk9_ZN80VY"); 
